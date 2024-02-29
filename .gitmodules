@@ -1,4 +1,4 @@
 [submodule "obsidian"]
 	path = obsidian
-	url = https://github.com/SynthRevolutionResearch/obsidian-vault
+	url = https://github.com/SynthRevolutionResearch/obsidian-vault/tree/main
 	branch = main
