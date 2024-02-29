@@ -2,3 +2,5 @@
 	path = obsidian
 	url = https://github.com/SynthRevolutionResearch/obsidian-vault
 	branch = main
+[submodule]
+	obsidian = .branch
